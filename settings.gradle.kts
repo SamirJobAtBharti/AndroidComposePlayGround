@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ComposeAndroidPlayGround"
+rootProject.name = "AndroidComposePlayGround"
 include(":app")
  
